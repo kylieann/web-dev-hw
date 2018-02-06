@@ -6,7 +6,7 @@ Throughout the week I proceeded to watch multiple videos on how to complete the 
 
 
 
-[responses](./web-dev-hw/assignment-2/responses.txt)
+[Here are my responses](../assignment-2/responses.txt)
 
 
 ![](../assignment-2/images/screenshot.png)
