@@ -4,4 +4,5 @@ A version control system provides clarity to when you did something and why you 
 
 [responses](./web-dev-hw/assignment-2/responses.txt)
 
-![screenshot](./web-dev-hw/assignment-2/images/screenshot.png)
+
+![](../assignment-2/images/screenshot.png)
