@@ -1,0 +1,14 @@
+#responses.txt
+
+There are different ways data travels the internet. Light is one of the ways this is possible. This option is the fastest and also provides no signal loss. However, it is expensive and hard to work with.
+
+IP Address stands for Internet Protocol. It is a unique number similar to a mailing address with many organized parts.
+DNS stands for Domain Name System. It is used to connect your computer to internet destinations by using .com, .net, .org, etc. A DNS is open to the public, sometimes making it unsafe.
+Both are designed to scale as numbers increase.
+
+A cookie is what websites use to remember who you are. The number identifies you and the request you are trying to make.
+
+The 3 basic parts of a URL:
+  +Uniform
+  +Resource
+  +Locator
