@@ -6,4 +6,4 @@ I used chrome to locate the Wayback Machine Website. I chose to search nfl.com i
 
 My work cycle for this assignment went better than I thought it was going to go. The only problem I came across was getting a picture to go along with my poem. I realized it was difficult to detected how many pixels the photo has, which is why it took me longer to complete that stage. Once I had a small enough pixel photo, it was smooth sailing from there. So far I haven’t posted any of my problems to the issues board because I have been able to figure out the solutions myself.
 
-![work progression](../desktop/work progress)
+![work progression](../web-dev-hw/project-1/work progress.png)
