@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Course Questionnaire</title>
+    <style>
+      * {font-family:arial}
+      legend {font-size:20px}
+      img, figure, figcaption, table {text-align:center;font-style:italic;margin:auto}
+      div {width:32%;display:inline-block;vertical-align:text-top;}
+      table, td, th {
+      /* -- Step 16 -- */
+
+
+
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <!-- Title Information -->
+      <img src="https://media-ed-online.github.io/intro-web-dev/img/logonav.png" alt="Media Arts Logo" title="Logo" width="100" height="100" style="float: left;"/>
+      <h1>Course Questionnaire</h1>
+      <p>Thank you for your interest in our course, <cite>Intro to Web Design!</cite><br/>
+        Please continue your registration by filling out these areas:</p>
+    </header>
+
+    <main>
+      <!-- Step 1 -->
+
+
+      <!-- Part 1: Basic Info -->
+      <fieldset>
+        <legend>Contact Details</legend>
+        <!-- Step 2 (Name) -->
+        <p>Name:
+          <input type="text" name="name" id="name-first" />
+          <input type="text" name="name" id="name-middle" />
+          <input type="text" name="name" id="name-last" />
+        </p>
+        <!-- Step 3 (E-mail) -->
+        <p>E-mail:
+
+        </p>
+
+        <!-- Step 4 (Date) -->
+        <p>Date of Birth:
+
+        </p>
+
+        <!-- Step 5 ("No" Radio) -->
+        <p>Have you taken a web design course before?</p>
+            <input id="yes" type="radio" name="prev-course" value="y">
+              <label for="yes">Yes</label>
+
+      </fieldset>
+
+
+      <br />
+
+
+      <!-- Part : Previous Experience -->
+      <fieldset>
+        <legend>Previous Experience</legend>
+        <!-- BROWSERS --><div id="browsers">
+          <figure>
+            <img src="./images/browsers.png" alt="Image of a browser" title="Broswer Icon" width="100" height="100" />
+            <figcaption>Wowsers, Browsers</figcaption>
+          </figure>
+          <p>What is your preferred browser?</p>
+          <p><i>Choose one:</i></p>
+          <!-- Step 6 -->
+
+        </div>
+
+        <!-- LANGUAGES --><div id="languages">
+          <!-- Step 7 -->
+
+          <p>What languages are you familiar with?</p>
+          <p><i>Choose one or more:</i></p>
+            <!-- Step 8 -->
+
+        </div>
+
+        <!-- SHORT-ANSWER--><div id="short-answer">
+          <!-- Step 9 -->
+
+          <p>Introduce yourself!</p>
+
+          <p>“Hi! I'm a
+            <select name="experience-level">
+            <!-- Step 10 -->
+
+            </select>
+            web designer or developer.”</p>
+
+          <p>“Last year, I spent
+            <!-- Step 11 -->
+            <input type="text" name="experince-time"
+            id="experince-time" placeholder="##" min="0" max="12" size="2"/>
+            months studying or working in this field.”</p>
+
+          <!-- Step 12 (textarea) -->
+          “I think my most difficult task will be...
+        </div>
+      </fieldset>
+
+
+      <br />
+
+
+      <!-- Part 3: Course Offerings -->
+      <!-- Steps 13-18 -->
+
+
+        <!-- Step 19 -->
+        <table>
+          
+        </table>
+        <p>Yes! Sign me up for weekly e-mail alerts.
+
+        </p>
+
+
+    </main>
+    <!-- Step 20 -->
+
+  </body>
+</html>
