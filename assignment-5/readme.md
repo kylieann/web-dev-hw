@@ -6,4 +6,4 @@ You might consider a third-party over self-hosted media because the codes are wr
 
 For my work cycle this week, a lot of different techniques were learned in coding. Because I struggled last week, I made sure I read everything exactly as it was stated to make sure I stayed on track. It is always easy for me to get frustrated when I can’t figure something out, so rereading and understanding why something was working helped me along with this assignment. I am pleased that I did not struggle with this assignment as much as the last one.
 
-![screenshot](../images/screenshot.png)
+![](../images/screen.png)
