@@ -1,4 +1,4 @@
-# Project-2
+# Readme
 
 Learning HTML is always an experience. Sometimes I come across problems and other
 times I don't. Developing project 2 I cam across some old coding as well and new coding. Some of the old coding consisted of giving the viewer a destination with an address element, email and embedded google map. Some of the new coding consisted of action and method attributes. These were more difficult to comprehend at first but once I got going it was easier to navigate through it.
