@@ -30,12 +30,21 @@
         <li><a href="./pages/contact">Contact</a></li>
      </ul>
    </nav>
-
-  <form action="#" method="get" id="contact-form" class="basic-forms">
-    <input type="text" name="Name" id="name_input" />
-    <input type="text" name="Phone #" id="phone_input" />
-    <input type="submit" name="contact" id="email_input"
-    value="Email" />
-  </form>
+  <fieldset>
+      <legend>Contact Details</legend>
+      <label>Email:<br />
+         <input type="text" name="name" /></label>
+      <br />
+      <label>Home Phone:<br />
+         <input type="text" name="telephone" /></label>
+      <br />
+      <label>Mobile:<br />
+         <input type="text" name="email" /></label>
+   </fieldset>
+   <form action="#" method="post">
+   <p>Subscribe to our e-mail list:</p>
+     <input type="text" name="email" />
+     <input type="submit" name="subscribe" value="Subscribe" />
+</form>
   </body>
 </html>
