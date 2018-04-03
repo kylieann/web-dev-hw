@@ -6,4 +6,4 @@ C)
 
 D)
 
-!(../images/screenshot.png)
+![](../images/screenshot.png)
