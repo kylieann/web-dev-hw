@@ -6,4 +6,4 @@ C)
 
 D)
 
-![](../project-2/images/screenshot.png)
+![](../project-2/images/screen shot.png)
