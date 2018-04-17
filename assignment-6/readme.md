@@ -6,4 +6,4 @@ My color palette included blue, red and black. I thought these colors were prefe
 
 My work cycle for this assignment was one of my favorites, so far. I enjoyed creating something from what I used to do when I was a little girl. At first it was confusing, just like any other assignment. I was not sure where I was supposed to code certain aspects, but once I started coding, I was able to work my way through it and understand what I needed to do. I normally have a lot more problems through out my work cycle, but I was able to do this one stress-free, for the most part. I hope I enjoy the next couple of modules we have left, just as much as I enjoyed CSS.
 
-![screenshot](../images/screenshot.png)
+![screenshot](../assignment-6/images/screenshot.png)
