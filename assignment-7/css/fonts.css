@@ -1,0 +1,32 @@
+@font-face {
+   font-family: 'Righteous';
+   src: url('../fonts/righteous-regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Righteous';
+   src: url('../fonts/righteous-regular.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Righteous';
+   src: url('../fonts/righteous-regular.ttf') format('opentype');
+   font-weight: lighter;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Cormorant';
+   src: url('../fonts/CormorantUnicase-Regular.ttf') format('opentype');
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'Cormorant';
+   src: url('../fonts/CormorantUnicase-Regular.ttf') format('opentype');
+   font-weight: normal;
+   font-style: normal;
+}
