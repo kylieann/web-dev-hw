@@ -1,0 +1,225 @@
+body {
+background-color: #fdfdf1;
+}
+
+#topright {
+	font-family: "Arial", serif;
+	font-size: 30px;
+	font-style: italic;
+	color: blue;
+	position: absolute;
+	width: 246px;
+	left: 396px;
+	top: 30px;
+	rotation: 12;
+}
+#topmiddle {
+	font-family: "Arial", serif;
+	font-size: 20px;
+	font-style: italic;
+	color: blue;
+	position: absolute;
+	left: 400px;
+	top: 98px;
+	width: 680px;
+}
+#topleft {
+	font-family: "Arial", serif;
+	font-size: 30px;
+	font-style: italic;
+	color: blue;
+	position: absolute;
+	left: 595px;
+	top: 25px;
+	width: 265px;
+	rotation: -12;
+}
+.woman {
+	z-index: 3;
+	position: absolute;
+	left: 110px;
+	top: 2px;
+}
+#filterqueen {
+	font-family: "Arial", serif;
+	font-size: 20px;
+	color: blue;
+	background-color: green;
+	height: 75px;
+	width: 340px;
+	position: absolute;
+	left: 444px;
+	top: 185px;
+}
+#text-1 {
+	font-family: "Arial", serif;
+	font-size: 10px;
+	color: blue;
+	position: absolute;
+	left: 466px;
+	top: 255px;
+	width: 322px;
+}
+.text2 {
+	font-family: "Arial", serif;
+	font-size: 10px;
+	color: blue;
+	position: absolute;
+	left: 675px;
+	top: 358px;
+	width: 270px;
+}
+.text3 {
+	font-family: "Arial", serif;
+	font-size: 10px;
+	color: blue;
+	position: absolute;
+	left: 675px;
+	top: 498px;
+	width: 270px;
+}
+.text4 {
+	font-family: "Arial", serif;
+	font-size: 10px;
+	color: blue;
+	position: absolute;
+	left: 670px;
+	top: 645px;
+	width: 270px;
+}
+.red-heading {
+	font-family: Serif;
+	font-size: 40px;
+	position: absolute;
+	color: red;
+	left: 675px;
+	top: 325px;
+}
+.red-heading1 {
+	font-family: Serif;
+	font-size: 40px;
+	position: absolute;
+	color: red;
+	left: 670px;
+	top: 450px;
+	width: 170px;
+}
+.red-heading2 {
+	font-family: Serif;
+	font-size: 40px;
+	position: absolute;
+	color: red;
+	left: 670px;
+	top: 605px;
+	width: 220px;
+}
+.Icons {
+	position: absolute;
+	left: 460px;
+	top: 345px;
+	width: 202px;
+	height: 150px;
+}
+.Icons1 {
+	position: absolute;
+	left: 456px;
+	top: 467px;
+	width: 202px;
+	height: 150px;
+}
+.Icons2 {
+	position: absolute;
+	left: 455px;
+	top: 605px;
+	width: 200px;
+	height: 150px;
+}
+.scene {
+	position: absolute;
+	left: 28px;
+	top: 785px;
+}
+.info-txt {
+	font-family: "Arial" serif;
+	font-size: 20px;
+	color: blue;
+	position: absolute;
+	left: 525px;
+	top: 755px;
+	width: 415px;
+	height: 228px;
+	vertical-align: 40pt;
+	white-space: pre;
+	line-height: 2;
+	text-align: justify;
+}
+.head1 {
+	font-family: "Arial", serif;
+	font-size: 9px;
+	position: absolute;
+	font-style: italic;
+	color: blue;
+	left: 24px;
+	top: 1050px;
+	width: 426px;
+}
+
+.photo {
+	position: absolute;
+	left: 30px;
+	top: 1240px;
+}
+
+.head2 {
+	font-family: "Arial", serif;
+	font-size: 10px;
+	position: absolute;
+	font-style: italic;
+	color: blue;
+	left: 25px;
+	top: 1535px;
+	width: 425px;
+}
+.sidetext {
+	font-family: "Arial", serif;
+	position: absolute;
+	font-size: 20px;
+	color: blue;
+	left: 25px;
+	top: 1085px;
+	width: 445px;
+	height: 155px;
+}
+.sidetext2 {
+	font-family: "Arial", serif;
+	position: absolute;
+	font-size: 20px;
+	color: blue;
+	left: 28px;
+	top: 1575px;
+	width: 445px;
+	height: 150px;
+}
+.logo {
+	position: absolute;
+	left: 432px;
+	top: 1260px;
+}
+.coupon {
+  position: absolute;
+  left: 525px;
+  top: 1575px;
+  width: 355;
+  height: 200;
+  z-index: 1;
+  padding-left: 10px;
+  border: 4px dashed black;
+}
+.guarantee {
+  position: absolute;
+  left: 600;
+  top: 1450;
+  width: 300;
+  height: 100;
+  z-index: 2;
+}
